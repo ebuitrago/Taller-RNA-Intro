@@ -1,2 +1,2 @@
 # Taller-RNA-Intro: Redes Neuronales Sin Ecuaciones
-En este repositorio se mantiene y actualiza el taller introductorio a redes neuronales artificiales: "Entrenamiento de redes neuronales sin ecuaciones".
+En este repositorio se mantiene y actualiza el taller introductorio a redes neuronales artificiales: "Entrenamiento de redes neuronales sin ecuaciones". El taller está diseñado para estudiantes de pregrado de nivel tecnología e ingeniería interesados en aproximarse al fascinante mundo de los modelos predictivos con redes neuronales artificiales, de una manera práctica, enfocada al hacer. El taller aborda el entrenamiento de las redes neuronales artificiales del tipo perceptrón multicapa, evitando detalles técnicos referentes a la ecuaciones involucradas.
